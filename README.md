@@ -7,7 +7,7 @@
 
 - My SMTP does not connect to a real domain email server but instead connects to my local server
 
-## HOW TO RUN THE JAR FILE:
+## How to run the jar file:
 
 1. Open two CMD windows 
 2. Create an empty folder with the name "Directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
