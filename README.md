@@ -10,7 +10,7 @@
 ## How to run the jar file:
 
 1. Open two CMD windows 
-2. Create an empty folder with the name "Directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
+2. Create an empty folder with the name "directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
 3. RUN in the one of the two CMD windows: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPServer**
 - The reason why we the Server side nees to be ran first is because the server must be listening before a client can establish a connection
 4. RUN in the other CMD window: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPClient**
