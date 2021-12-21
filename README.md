@@ -13,4 +13,4 @@
 2. Create an empty folder with the name "directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
 3. RUN in one of the two CMD windows: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPServer**
 - The reason why the Server side needs to be ran first is because the server must be listening before a client can establish a connection
-4. RUN the following in the other CMD window: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPClient**
+4. In the other CMD window - RUN the following: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPClient**
