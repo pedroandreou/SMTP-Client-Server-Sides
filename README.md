@@ -9,8 +9,9 @@
 
 ## How to run the jar file:
 
-1. Open two CMD windows 
-2. Create an empty folder with the name "directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
-3. RUN in one of the two CMD windows: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPServer**
+1. Clone the repository in your desktop by executing **git clone https://github.com/pedroandreou/SMTP-Client-Server-Sides.git**  
+2. Open two CMD windows 
+3. Create an empty folder with the name "directory" on your Desktop where the msgs/commands will be saved into (to avoid IOException)
+4. RUN in one of the two CMD windows: **java -cp c:\Users\user\Desktop\SMTP-Client-Server-Sides\Runnable jar\SMTP.jar SMTPSocket.SMTPServer**
 - The reason why the Server side needs to be ran first is because the server must be listening before a client can establish a connection
-4. In the other CMD window - RUN the following: **java -cp c:\Users\user\Desktop\ah\SMTP.jar SMTPSocket.SMTPClient**
+5. In the other CMD window - RUN the following: **java -cp c:\Users\user\Desktop\SMTP-Client-Server-Sides\Runnable jar\SMTP.jar SMTPSocket.SMTPClient**
