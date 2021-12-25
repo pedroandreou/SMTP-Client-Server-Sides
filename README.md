@@ -19,7 +19,7 @@ Simple Mail Transfer Protocol (SMTP) is an internet standard communication proto
 My SMTP does not connect to a real domain email server but instead connects to my local server
 
 ## ⚠ Important
-More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#about)
+More info about my project can be found in my [portfolio](https://pedroandreou.github.io/#SMTP)
 
 ## Author  
 👨🏼 Petros Andreou
